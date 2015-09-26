@@ -1,0 +1,17 @@
+#leftButton{
+	position: absolute;
+	left: 20%;
+	top: 35%
+}
+
+#rightButton{
+	position: absolute;
+	left: 80%;
+	top: 35%
+}
+
+.showPhoto{
+	width: 50%;
+	margin: 0 auto;
+	border-radius: 15px;
+}
